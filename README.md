@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 👓 Full-time Computer Science bachelors second year student at the Krakow University of Economics.</br><br> * 📌 Interested in software-development, testing, cybersecurity and machine learning.</br><br> * 🌱 Currently learning front-end development, basics of QA engineering.</br><br> * ⚡ Fun hobbies I have: drawing, playing ukulele, OSINT
+• 👓 Full-time Computer Science bachelors second year student at the Krakow University of Economics.<br>• 📌 Interested in software-development, testing, cybersecurity and machine learning.<br>• 🌱 Currently learning front-end development, basics of QA engineering.<br>• ⚡ Fun hobbies I have: drawing, playing ukulele, OSINT
 
 
 ## 🌐 Socials:
